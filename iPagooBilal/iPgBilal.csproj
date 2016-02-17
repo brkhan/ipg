@@ -265,9 +265,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IpagooBilal.Domain\IpagooBilal.Domain.csproj">
+    <ProjectReference Include="..\IpagooBilal.Domain\iPgBilal.Domain.csproj">
       <Project>{3bb393a4-7769-4a2c-8483-a28d6b065501}</Project>
-      <Name>IpagooBilal.Domain</Name>
+      <Name>iPgBilal.Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

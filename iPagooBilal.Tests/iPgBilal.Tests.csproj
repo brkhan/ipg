@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\iPagooBilal\iPagooBilal.csproj">
+    <ProjectReference Include="..\iPagooBilal\iPgBilal.csproj">
       <Project>{656CDFAC-DF76-4DEF-967D-34B5E200CA90}</Project>
-      <Name>iPagooBilal</Name>
+      <Name>iPgBilal</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

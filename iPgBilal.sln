@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 14 for Web
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPagooBilal", "iPagooBilal\iPagooBilal.csproj", "{656CDFAC-DF76-4DEF-967D-34B5E200CA90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPgBilal", "iPagooBilal\iPgBilal.csproj", "{656CDFAC-DF76-4DEF-967D-34B5E200CA90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPagooBilal.Tests", "iPagooBilal.Tests\iPagooBilal.Tests.csproj", "{68557165-1158-4A2E-AA05-F0B2C549DF06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPgBilal.Tests", "iPagooBilal.Tests\iPgBilal.Tests.csproj", "{68557165-1158-4A2E-AA05-F0B2C549DF06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpagooBilal.Domain", "IpagooBilal.Domain\IpagooBilal.Domain.csproj", "{3BB393A4-7769-4A2C-8483-A28D6B065501}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPgBilal.Domain", "IpagooBilal.Domain\iPgBilal.Domain.csproj", "{3BB393A4-7769-4A2C-8483-A28D6B065501}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
